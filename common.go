@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Danny-Dasilva/utls/cpu"
+	"github.com/mbergwall2222/utls/cpu"
 )
 
 const (

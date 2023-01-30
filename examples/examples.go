@@ -10,7 +10,7 @@ import (
 	"time"
 
 	http "github.com/Danny-Dasilva/fhttp"
-	tls "github.com/Danny-Dasilva/utls"
+	tls "github.com/mbergwall2222/utls"
 
 	"golang.org/x/net/http2"
 )
